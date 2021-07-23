@@ -1,4 +1,5 @@
-### Hello! 👋 ![](https://tenor.com/bEAlI.gif)
+### Hello! 👋 
+![](https://raw.githubusercontent.com/davidjtoomer/davidjtoomer/main/wave.gif)
 
 <!--
 **sophiewillerb/sophiewillerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
